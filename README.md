@@ -36,36 +36,6 @@ This project demonstrates **secure QR decoding, data parsing, and frontend visua
 - Camera access APIs  
 
 ---
-
-## Project Structure
-
-
-aadhaar-qr-verification/
-│
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ │ └── Scanner.js
-│ │ ├── App.js
-│ │ └── index.js
-│ │
-│ └── package.json
-│
-├── backend/
-│ ├── controllers/
-│ │ └── qrController.js
-│ │
-│ ├── routes/
-│ │ └── qrRoutes.js
-│ │
-│ ├── services/
-│ │ └── aadhaarParser.js
-│ │
-│ └── server.js
-│
-└── README.md
-
-
 ---
 
 ## Aadhaar QR Data Fields
